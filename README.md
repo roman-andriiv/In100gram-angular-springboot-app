@@ -1,4 +1,4 @@
-### "In100gram" web-application
+# "In100gram" web-application
 
 Fullstack project with Spring Boot and Angular.<br> 
 Share your posts, follow and like other peoples posts.
